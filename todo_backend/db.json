@@ -1,13 +1,30 @@
 {
-    "todos": [
-      { "title": "Obst kaufen" },
-      { "title": "Milch kaufen" },
-      { "title": "Sport machen" }
-    ],
-    "notes": [
-        { "title": "Note 1" },
-        { "title": "Note 2" },
-        { "title": "Note 3" }
-      ]
-  }
-  
+  "todos": [
+    {
+      "title": "Obst kaufen",
+      "id": "93ea"
+    },
+    {
+      "title": "Milch kaufen",
+      "id": "d2d5"
+    },
+    {
+      "title": "Sport machen",
+      "id": "7381"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Note 1",
+      "id": "344d"
+    },
+    {
+      "title": "Note 2",
+      "id": "b40b"
+    },
+    {
+      "title": "Note 3",
+      "id": "5d48"
+    }
+  ]
+}
