@@ -1,0 +1,13 @@
+{
+    "todos": [
+      { "title": "Obst kaufen" },
+      { "title": "Milch kaufen" },
+      { "title": "Sport machen" }
+    ],
+    "notes": [
+        { "title": "Note 1" },
+        { "title": "Note 2" },
+        { "title": "Note 3" }
+      ]
+  }
+  
